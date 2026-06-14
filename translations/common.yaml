@@ -104,3 +104,7 @@ inventory:
       alternatives:
         - zaloga
         - inventar
+dungeon:
+ description: Broadly refers to any enclosed, monster-infested, maze-like environment - such as a cave, ruin or crypt - that players explore to battle enemies and find tresure.
+  - language: sl
+    value: mračnica
